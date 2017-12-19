@@ -1,0 +1,4 @@
+index.styl文件是stylus的入口文件，引用全局样式
+base.styl文件是全局适配像素比
+icon.styl文件是全局文字图标
+mixin.styl文件是全局最小边框样式border-1px
